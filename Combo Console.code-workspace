@@ -6,6 +6,10 @@
 		{
 			"name": "Autonomous Console",
 			"path": "../AutonomousConsole/Autonomous Console"
+		},
+		{
+			"name": "Combo Console 2023",
+			"path": "../Combo Console 2023"
 		}
 	],
 	"settings": {}
